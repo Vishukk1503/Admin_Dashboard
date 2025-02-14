@@ -41,10 +41,6 @@ Before you begin, make sure you have the following installed:
    ```sh
    yarn install
    ```
-   _(or with npm)_
-   ```sh
-   npm install
-   ```
 
 ---
 
@@ -53,10 +49,7 @@ To start the development server:
 ```sh
 yarn dev
 ```
-_(or with npm)_
-```sh
-npm run dev
-```
+
 After running the command, open your browser and go to:  
 ➡️ `http://localhost:5173/`
 
@@ -67,20 +60,13 @@ To create an optimized production build, run:
 ```sh
 yarn build
 ```
-_(or with npm)_
-```sh
-npm run build
-```
 The build output will be in the `dist/` directory.
 
 To preview the production build:
 ```sh
 yarn preview
 ```
-_(or with npm)_
-```sh
-npm run preview
-```
+
 
 ---
 
